@@ -1,0 +1,29 @@
+//#  Colors
+$main_bc_color : var(--dynamic-colour);
+$second_bc_color :white;
+$main-text-color :var(--dynamic-text-colour);
+$main-text-color-two :black; // for text 
+
+$logo-bc-color :white;
+$btn_type-one-bc-color :white; // pinned
+$btn_type-two-bc-color :rgba(255, 166, 0, 0.703); // for text 
+$btn-text-color :white;
+
+$btn-loadmore-color :#7a7a7a66;
+
+$img-bc-color-one :none;
+$img-bc-color-two :#da0c0cdb;
+$img-bc-color-three :#441c4366;
+$img-bc-color-four :#170a8666;
+$img-bc-color-five :#20660c97;
+
+$img-one-color-one :#0c76da5e;
+$img-two-color-two :#31ff0d;
+$img-three-color-three :#5e405d4e;
+
+//#  fonts
+
+$font-main: 'Muli', sans-serif;
+$font-sub: 'Oleo Script', cursive;
+$font-heading: 'Dance Script', cursive;
+$font-btn: 'Play', sans-serif;
